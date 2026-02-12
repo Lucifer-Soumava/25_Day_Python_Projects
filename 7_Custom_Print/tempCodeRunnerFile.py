@@ -1,0 +1,5 @@
+lse, include_types=False, sep=', ')
+# custom_print('Bob', 'James', 10, caps=True, include_types=False, sep=', ', end='!\n')
+# custom_print('Bob', 'James', 10, include_types=True, sep=', ', end='!\n')
+# custom_print([], include_types=True, sep=', ', end='!\n')
+# custom_print('Bob','James', 10, count = True)
