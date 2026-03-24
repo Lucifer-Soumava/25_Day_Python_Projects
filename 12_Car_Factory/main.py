@@ -49,38 +49,49 @@ def display_stocks(cars: list[Car]) -> None:
         print(f'{brand} {model} [{color}]: {count} in stock')
 
 
-def sell(cars: list[Car], acc: Account ) -> None:
-    car_tuples: list[tuple[str, str, int]] = [(car.brand, car.color, car.model) for car in cars]
-    counter: Counter[tuple[str, str, int]] = Counter(car_tuples)
+def sell(cars: list[Car], acc: Account) -> None:
+    brand = input('Enter brand: ').capitalize().strip()
+    color = input('Enter color: ').capitalize().strip()
+    
+    try:
+        model = int(input('Enter model number: '))
+    except ValueError:
+        print('Invalid model number')
+        return
 
-    brand = input("Enter brand: ").capitalize().strip()
-    color = input("Enter color: ").capitalize().strip()
-    model = int(input("Enter model number: "))
+    # Find matching cars
+    matching_cars = [car for car in cars if (car.brand, car.color, car.model) == (brand, color, model)]
 
-    key = (brand, color, model)
+    if not matching_cars:
+        print('Car not available')
+        return
 
-    if counter[key] == 0:
-        print("Car not available")
-    else:
-        try:
-            qty = int(input("How many do you want to sell? "))
+    try:
+        qty = int(input('How many do you want to sell? '))
+    except ValueError:
+        print('Enter a valid number')
+        return
 
-            if qty > counter[key]:
-                print(f"Only {counter[key]} available")
-            else:
-                counter[key] -= qty
-                sp: int = int(input('Enter the amount you sold the car at: '))
-                
-                amount = sp * qty
-                acc.debit(amount)
-                print('Successfully debited to your account! ')
-                print(f"Sold {qty} cars")
+    if qty > len(matching_cars):
+        print(f'Only {len(matching_cars)} available')
+        return
 
-                if counter[key] == 0:
-                    del counter[key]
-        except ValueError:
-                    print('Enter a correct numeric value')
+    try:
+        sp = int(input('Enter selling price per car: '))
+    except ValueError:
+        print('Invalid price')
+        return
 
+    # Remove cars from stock ✅
+    for _ in range(qty):
+        cars.remove(matching_cars.pop())
+
+    # Add money to account ✅
+    amount = sp * qty
+    acc.debit(amount)
+
+    print('Successfully added to your account!')
+    print(f'Sold {qty} cars')
 
 def main() -> None:
     cars: list[Car] = [Car('volvo', 'red', 200),
