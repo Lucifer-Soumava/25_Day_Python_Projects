@@ -1,0 +1,74 @@
+[
+  {
+    "activity": "Movie Night",
+    "type": "entertainment",
+    "cost": 15,
+    "people": 4
+  },
+  {
+    "activity": "Hiking",
+    "type": "outdoor",
+    "cost": 0,
+    "people": 2
+  },
+  {
+    "activity": "Escape Room",
+    "type": "adventure",
+    "cost": 50,
+    "people": 4
+  },
+  {
+    "activity": "Board Games",
+    "type": "indoor",
+    "cost": 10,
+    "people": 6
+  },
+  {
+    "activity": "Picnic",
+    "type": "outdoor",
+    "cost": 5,
+    "people": 3
+  },
+  {
+    "activity": "Cooking Class",
+    "type": "indoor",
+    "cost": 25,
+    "people": 2
+  },
+  {
+    "activity": "Board Game Night",
+    "type": "indoor",
+    "cost": 10,
+    "people": 4
+  },
+  {
+    "activity": "Picnic in the Park",
+    "type": "outdoor",
+    "cost": 20,
+    "people": 5
+  },
+  {
+    "activity": "Cooking Challenge",
+    "type": "indoor",
+    "cost": 12,
+    "people": 3
+  },
+  {
+    "activity": "Hiking Trip",
+    "type": "outdoor",
+    "cost": 5,
+    "people": 6
+  },
+  {
+    "activity": "Karaoke Night",
+    "type": "entertainment",
+    "cost": 15,
+    "people": 4
+  },
+  {
+    "activity": "Art & Craft Session",
+    "type": "creative",
+    "cost": 8,
+    "people": 3
+  }
+]
