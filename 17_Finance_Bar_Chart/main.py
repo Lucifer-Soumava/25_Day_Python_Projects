@@ -1,12 +1,17 @@
 import matplotlib.pyplot as plt
+import csv
+
+with open('Book1.csv', 'r') as file:
+    reader = csv.DictReader(file)
+    row = next(reader)   # first data row
 
 # Main data
-monthly_income: float = 10000
-rent: float = 1000
-food: float = 2500
-tax_rate: float = 0.22
+monthly_income: float = float(row['Monthly Income'])
+rent: float = float(row['Rent'])
+food: float = float(row['Food'])
+tax_rate: float = float(row['Tax_Rates'])
 taxes: float = monthly_income * tax_rate
-other_expenses: float = 2000
+other_expenses: float = float(row['Other_Expenses'])
 
 # Yearly
 yearly_income: float = monthly_income * 12
