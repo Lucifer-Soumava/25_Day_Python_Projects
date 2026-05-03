@@ -1,4 +1,4 @@
-# 🎯 Random Course Projects
+# 🎯 25 Day Python Projects
 
 Welcome — this repo is a curated collection of small, focused Python projects created for learning, classroom exercises, and quick demos. Each project is intentionally compact so you can read, run, and modify it in a few minutes.
 
@@ -7,7 +7,7 @@ Why this repo exists
 - ⚡ Provide ready-to-run examples with minimal dependencies so learners can experiment immediately.
 
 How the repository is organized
-- 🗂️ Folders are prefixed with a number (01..18) to indicate sequence and are named for quick recognition.
+- 🗂️ Folders are prefixed with a number (01..18) to indicate sequence and are named for quick recognition. (more to be come)
 - ▶️ Each project contains a `main.py` entry point plus any sample data files required to run the example (CSV, JSON, TXT, etc.).
 - 📄 Each project folder includes a `README.md` that explains the project's purpose, input/output expectations, design/thought-process, run instructions, and suggested improvements.
 
