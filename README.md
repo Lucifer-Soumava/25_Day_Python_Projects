@@ -1,5 +1,4 @@
 # 🎯 25 Day Python Projects
-# 🎯 25 Day Python Projects
 
 Welcome — this repo is a curated collection of small, focused Python projects created for learning, classroom exercises, and quick demos. Each project is intentionally compact so you can read, run, and modify it in a few minutes.
 
