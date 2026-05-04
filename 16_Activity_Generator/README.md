@@ -27,5 +27,12 @@ Extensions / Improvements
 - Add command-line flags for non-interactive usage and output as JSON for automation.
 - Allow user-submitted activities to be appended to the local dataset.
 
-What I learned
+## 💡 What I learned
 - Working with JSON and the `random` module; designing small filter pipelines.
+
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

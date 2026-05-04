@@ -26,5 +26,11 @@ Extensions / Improvements
 - Add a lightweight dependency-free table formatter and tests.
 - Provide a `--no-color` flag for environments that don't support ANSI colors.
 
-What I learned
+## 💡 What I learned
 - Practical string operations and designing small reusable utilities for presentation.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

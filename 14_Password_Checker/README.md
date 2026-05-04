@@ -28,5 +28,11 @@ Extensions / Improvements
 - Offer a password generator that produces strong suggestions.
 - Add unit tests for each rule and blacklist checks.
 
-What I learned
+## 💡 What I learned
 - Practical security checks and how to present actionable feedback to users.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

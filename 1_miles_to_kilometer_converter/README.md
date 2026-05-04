@@ -32,5 +32,11 @@ Extensions / Improvements
 - Support batch conversions from a file (CSV input).
 - Add a small GUI or web front-end for demonstration.
 
-What I learned
+## 💡 What I learned
 - Basic CLI input/output in Python, input validation, and formatting numeric output.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

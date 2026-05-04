@@ -28,5 +28,11 @@ Extensions / Improvements
 - Add optional network fetch for live rates (e.g., free exchange rate APIs) with caching and a fallback to local rates.
 - Support formatting with currency symbols and locale-aware decimal/group separators using `babel`.
 
-What I learned
+## 💡 What I learned
 - Loading JSON, validating user input, and carefully formatting monetary values.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

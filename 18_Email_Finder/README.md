@@ -37,5 +37,11 @@ Extensions / Improvements
 - Add CLI flags for recursive directory scanning, output formats (CSV/JSON), and context window size.
 - Add unit tests for the regex and deduplication logic.
 
-What I learned
+## 💡 What I learned
 - Practical regex usage, file reading patterns, and safe handling of text processing outputs.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

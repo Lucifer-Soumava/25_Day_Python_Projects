@@ -27,5 +27,11 @@ Extensions / Improvements
 - Add an external configuration file for response templates to make the bot data-driven.
 - Add unit tests for intent detection and response generation.
 
-What I learned
+## 💡 What I learned
 - Organizing conversational code, keeping state minimal, and writing rule-based intent handlers.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

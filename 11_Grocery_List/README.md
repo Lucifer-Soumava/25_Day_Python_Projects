@@ -27,5 +27,11 @@ Extensions / Improvements
 - Persist list to `grocery.json` between runs.
 - Add import/export from CSV and a `--sort` flag for alphabetical lists.
 
-What I learned
+## 💡 What I learned
 - Building a small stateful command loop and organizing operations for testability.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

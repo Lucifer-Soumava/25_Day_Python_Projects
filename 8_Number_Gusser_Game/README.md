@@ -29,5 +29,11 @@ Extensions / Improvements
 - Add difficulty levels (range size) and persist high scores to a small JSON file.
 - Add a `--seed` flag to make the secret number deterministic for testing.
 
-What I learned
+## 💡 What I learned
 - Managing game state and producing friendly user prompts.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

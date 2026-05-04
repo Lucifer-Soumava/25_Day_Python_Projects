@@ -28,5 +28,11 @@ Extensions / Improvements
 - Replace rule-based matching with a tiny NLP library or embed simple pattern scoring.
 - Add unit tests for the message processing functions.
 
-What I learned
+## 💡 What I learned
 - Building simple conversational flows and organizing response rules for testability.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

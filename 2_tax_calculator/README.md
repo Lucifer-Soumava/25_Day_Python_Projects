@@ -31,5 +31,11 @@ Extensions / Improvements
 - Add CLI flags to run calculations non-interactively and output JSON for automation.
 - Add unit tests covering edge cases and bracket boundaries.
 
-What I learned
+## 💡 What I learned
 - Implementing bracketed calculations and presenting clear user-friendly summaries.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

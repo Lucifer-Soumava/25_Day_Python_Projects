@@ -26,5 +26,11 @@ Extensions / Improvements
 - Replace heuristics with a more sophisticated classifier (if labeled data is available).
 - Add logging and an option to export flagged records to CSV.
 
-What I learned
+## 💡 What I learned
 - Encoding domain knowledge as clear rules and presenting explainable results.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

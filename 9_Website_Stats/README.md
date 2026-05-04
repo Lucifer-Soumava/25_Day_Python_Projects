@@ -29,5 +29,11 @@ Extensions / Improvements
 - Add CLI flags to filter by date range or to output JSON.
 - Add support for standard log formats (combined/common) and unit tests for parsing.
 
-What I learned
+## 💡 What I learned
 - Robust text parsing, defensive programming for malformed lines, and summarizing large datasets in concise reports.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

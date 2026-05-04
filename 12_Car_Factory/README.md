@@ -26,5 +26,11 @@ Extensions / Improvements
 - Add persistence to save inventory to JSON.
 - Add unit tests for construction and option application functions.
 
-What I learned
+## 💡 What I learned
 - Encapsulating data in classes and designing simple simulations to exercise class methods.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

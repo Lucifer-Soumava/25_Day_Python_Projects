@@ -28,5 +28,11 @@ Extensions / Improvements
 - Add basic input sanitization (e.g., prevent empty input).
 - Add unit tests for the templating function.
 
-What I learned
+## 💡 What I learned
 - Safely formatting strings and designing simple interactive flows.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

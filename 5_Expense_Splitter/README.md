@@ -27,5 +27,11 @@ Extensions / Improvements
 - Add tip percentage and tax calculation options.
 - Provide a `--rounding` flag to choose rounding behavior.
 
-What I learned
+## 💡 What I learned
 - Handling floating point rounding issues and designing UIs for small utilities.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)

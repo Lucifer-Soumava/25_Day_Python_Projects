@@ -29,5 +29,11 @@ Extensions / Improvements
 - Save high scores to a JSON file.
 - Add tests for the move comparison function.
 
-What I learned
+## 💡 What I learned
 - Designing robust input loops, using `random.choice`, and encapsulating logic into testable functions.
+
+## 👤 Author
+
+**Soumava Pramanick**  
+2nd Year B.Tech Student  
+[GitHub](https://github.com/Lucifer-Soumava)
