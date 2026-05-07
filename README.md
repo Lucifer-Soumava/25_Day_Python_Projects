@@ -7,7 +7,7 @@ Why this repo exists
 - ⚡ Provide ready-to-run examples with minimal dependencies so learners can experiment immediately.
 
 How the repository is organized
-- 🗂️ Folders are prefixed with a number (1..20) to indicate sequence and are named for quick recognition. (More to be added later.)
+- 🗂️ Folders are prefixed with a number (1..21) to indicate sequence and are named for quick recognition. (more to be added later)
 - ▶️ Each project contains a `main.py` entry point plus any sample data files required to run the example (CSV, JSON, TXT, etc.).
 - 📄 Each project folder includes a `README.md` that explains the project's purpose, input/output expectations, design/thought-process, run instructions, and suggested improvements.
 
@@ -41,6 +41,7 @@ Project summaries (what each folder is about)
 - ✉️ `18_Email_Finder` — Scan text files for email-like patterns using regex; outputs deduplicated findings and context.
 - 📝 `19_Text_Analyser` — Read a sample text file and report counts, punctuation, and the most common words.
 - 🍋 `20_Lucky_Lemons` — A terminal slot machine game with credit betting, random fruit spins, and payout rules for full/partial matches.
+- 📁 `21_Folder_Analyser` — Select a folder with a dialog and report file count, total size, and the most common file extensions.
 
 Design & thought process (applies to most projects)
 - 🔍 Inputs: Each project documents typical inputs (CLI prompts, sample files, or arguments).
