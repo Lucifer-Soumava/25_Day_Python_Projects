@@ -7,7 +7,7 @@ Why this repo exists
 - ⚡ Provide ready-to-run examples with minimal dependencies so learners can experiment immediately.
 
 How the repository is organized
-- 🗂️ Folders are prefixed with a number to indicate sequence and are named for quick recognition. (new projects added regularly)
+- 🗂️ Folders are prefixed with a number (1 to 23)to indicate sequence and are named for quick recognition. (new projects added regularly)
 - ▶️ Each project contains a `main.py` entry point plus any sample data files required to run the example (CSV, JSON, TXT, etc.).
 - 📄 Each project folder includes a `README.md` that explains the project's purpose, input/output expectations, design/thought-process, run instructions, and suggested improvements.
 
@@ -43,6 +43,7 @@ Project summaries (what each folder is about)
 - 🍋 `20_Lucky_Lemons` — A terminal slot machine game with credit betting, random fruit spins, and payout rules for full/partial matches.
 - 📁 `21_Folder_Analyser` — Select a folder with a dialog and report file count, total size, and the most common file extensions.
 - 🤖 `22_Chat_Bot_v3` — Intelligent rule-based chatbot with keyword scoring and required-word validation; loads response templates from JSON.
+- 🌐 `23_Website_Analyser` — Check a list of websites asynchronously and report whether each one is online, along with status codes and response times.
 
 Design & thought process (applies to most projects)
 - 🔍 Inputs: Each project documents typical inputs (CLI prompts, sample files, or arguments).
